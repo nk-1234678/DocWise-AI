@@ -128,7 +128,7 @@ The application will open in your browser.
 
 B.Tech – Computer Science and Engineering
 
-[GitHub](https://github.com/YOUR_USERNAME)
+
 
 ---
 
