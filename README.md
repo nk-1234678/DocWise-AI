@@ -1,6 +1,6 @@
 # DocWise AI – AI-Powered PDF Question Answering Chatbot
 
-Live Demo: Try DocWise AI
+🚀 **Live Demo:** [Try DocWise AI](https://docwiseai.streamlit.app/)
 
 DocWise AI is an intelligent PDF question-answering application built using Python, Streamlit, Google Gemini and Retrieval-Augmented Generation (RAG).
 
